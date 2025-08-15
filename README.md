@@ -1,14 +1,16 @@
 # Server-Performance-Stats
 This is a Bash Script that anaylse server performace 
 ## Getting Started 
-**Clone the respository**
+1. **Clone the respository**
 '''
 '''
-**Make the Script Executable**
+
+2. **Make the Script Executable**
 '''
 chmod +x server.stats.sh
 '''
-**Execute the Script**
+
+3. **Execute the Script**
 '''
 ./server.stats.sh
 '''
