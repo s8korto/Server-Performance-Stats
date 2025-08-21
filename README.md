@@ -16,4 +16,4 @@ chmod +x server-stats.sh
 ```
 ./server.stats.sh
 ```
-
+![Server Performance Script](https://github.com/s8korto/Server-Performance-Stats/blob/0f7534d6f6b1dc6f5e000d43318d6fee79c80ca3/server-performance-script.pn.png)
