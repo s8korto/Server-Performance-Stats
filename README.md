@@ -4,7 +4,8 @@ This is a Bash Script that analyse server performance
 ## Getting Started 
 1. **Clone the repository**
 ```
-cd server-performance-stats
+git clone https://github.com/s8korto/Server-Performance-Stats.git
+cd Server-performance-stats
 ```
 
 2. **Make the script executionable**
